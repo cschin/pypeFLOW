@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 from . import do_support, util
 from .io import fix_relative_symlinks
 import argparse

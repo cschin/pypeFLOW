@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 """Blocking process-watcher.
 
 See fs_based.py. Here, delete is a no-op, and run() starts threads, so
